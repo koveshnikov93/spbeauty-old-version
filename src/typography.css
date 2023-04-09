@@ -1,5 +1,5 @@
 body {
-  font-family: 'Arial', sans-serif;
+  font-family: 'Inter', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -23,9 +23,9 @@ body {
 }
 
 .text-md {
-  font-weight: 400;
+  font-weight: 500;
   font-size: 15px;
-  line-height: 17px;
+  line-height: 18px;
 }
 
 .text-rg-bd {
