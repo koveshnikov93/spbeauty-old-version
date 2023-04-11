@@ -3,7 +3,7 @@ import Page from './Layouts/Page/Page';
 
 function App() {
   return (
-    <div className='d-flex flex-row'>
+    <div className='d-flex flex-row text-md'>
       <Sidebar/>
       <Page/>
     </div>
