@@ -1,5 +1,4 @@
 import styled from 'styled-components';
-import SecondaryButton from '../../../../../Components/SecondaryButton';
 import EditIcon from '../../../../../Icons/EditIcon';
 import RemoveIcon from '../../../../../Icons/RemoveIcon';
 import IconOnlyButton from '../../../../../Components/IconOnlyButton.js';

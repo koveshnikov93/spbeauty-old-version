@@ -2,7 +2,6 @@ import ProfileIcon from '../../../Icons/ProfileIcon';
 import GridIcon from '../../../Icons/GridIcon';
 import SettingsIcon from '../../../Icons/SettingsIcon';
 import SideMenuGroup from './SideMenuGroup';
-import styled from 'styled-components';
 
 const activeTab = 'about-company';
 

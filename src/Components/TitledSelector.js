@@ -12,9 +12,9 @@ const Select = styled.select`
     border-radius: 24px;
     color: #0F172A;
     &:hover {
-        background-color: #F8FAFC;
+        background-color: #D9E2EFB8;
     }
-`;
+ `;
 
 function TitledSelector({title, options}) {
     const Title = title === undefined ? 
